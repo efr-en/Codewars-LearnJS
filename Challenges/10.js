@@ -47,3 +47,7 @@ type using switch cases
 //     break;
 //     default 
 // }
+
+//this one was a bit tricky, on my 1st couple attempts I was
+//unnecessarily strict, with all conditionals being along the 
+// format of (else if (averageScore >= 60) && (averageScore < 70))

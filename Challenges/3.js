@@ -12,3 +12,6 @@ function evenOrOdd(number) {
     return "Odd";
     }
     console.log(evenOrOdd(2))
+
+//this came to me 1st try, it did felt accomplishing
+//to solve

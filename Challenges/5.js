@@ -14,3 +14,6 @@ function findAverage(numbers) {
 }
 
 console.log(findAverage([1, 2, 3, 5, 8]));
+
+//this took me a couple tries to come to
+// mostly from not including [i] with the numbers for the sum

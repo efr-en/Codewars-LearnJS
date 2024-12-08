@@ -19,6 +19,10 @@ least to greatest and then add the first array elements together
 
 // solution
 function sumTwoSmallestNumbers(numbers) {  
-    const sum = numbers.sort((a, b) => a-b);
+    const sum = numbers.sort((a, b) => a - b);
     return sum[0] + sum[1];
 }
+
+//This felt good to solve, I almost went down the same rabbit hole
+//like I did with 2.js challenge, creating heavier work that isn't needed.
+//Thankfully I remembered the .sort() method.

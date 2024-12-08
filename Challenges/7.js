@@ -29,3 +29,6 @@ function simpleMultiplication(number) {
       return number *9;
 }
 */
+
+//having done similiar math functions before
+//it felt pretty familiar solving this
