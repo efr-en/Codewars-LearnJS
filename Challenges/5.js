@@ -8,7 +8,7 @@ Note: Empty arrays should return 0.
 function findAverage(numbers) {
     let sum = 0;
     for (let i = 0; i < numbers.length; i++){
-        sum += numbers[i];
+        sum += numbers[i]; // adds each number into the sum
     }
     return sum / numbers.length;
 }
